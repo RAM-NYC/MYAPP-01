@@ -1,3 +1,4 @@
+@Library('JenkinsGlobalLibrary') _
 pipeline {
     agent any 
     stages {
