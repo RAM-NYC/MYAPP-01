@@ -4,5 +4,6 @@ ramTechPipeline {
     buildType="maven"
     webDeploy="false"
     logging="true"
+    sonarAnalysis="false"
 }
 
