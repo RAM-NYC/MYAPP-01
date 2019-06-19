@@ -11,6 +11,7 @@
         <sonar.host.url>http://192.168.0.37]</sonar.host.url>
         <sonar.projectKey>com.ramtech.myapp</sonar.projectKey>
         <sonar.projectName>MyApp</sonar.projectName>
+        <sonar.branch.name>feature/ado01</sonar.branch.name>
   </properties>
   <dependencies>
     <dependency>
